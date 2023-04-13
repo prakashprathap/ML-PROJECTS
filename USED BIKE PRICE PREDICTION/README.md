@@ -1,5 +1,5 @@
 
-# Cost of Living in cities prediction
+# Used bike price prediction
 
 ### Problem type : Regression
 
@@ -7,5 +7,5 @@
 
 ### Description: 
 
-Cost of Living in cities is predicted using regression analysis. Dataset is taken from Kaggle. 
+Used bike price  is predicted using regression analysis. Dataset is taken from Kaggle. 
 
