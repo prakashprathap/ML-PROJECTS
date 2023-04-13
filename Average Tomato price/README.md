@@ -1,5 +1,5 @@
 
-# Cost of Living in cities prediction
+# Average tomato price prediction
 
 ### Problem type : Regression
 
