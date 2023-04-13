@@ -1,11 +1,11 @@
 
-# Cost of Living in cities prediction
+# Wine quality Prediction
 
-### Problem type : Regression
+### Problem type : Classification
 
 ### Variable type : Multi variate
 
 ### Description: 
 
-Cost of Living in cities is predicted using regression analysis. Dataset is taken from Kaggle. 
+Wine quality  is predicted using classification analysis. Dataset is taken from Kaggle. 
 
