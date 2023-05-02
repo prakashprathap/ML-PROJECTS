@@ -1,10 +1,9 @@
 
-# Body performance  prediction
+# Bird nest classification
 
 ### Problem type : Classification
 
 
 ### Description: 
-
-Body performance is predicted using Classification analysis. Dataset is taken from Kaggle. 
+Bird nest classification is predicted using Classification analysis.Also used imbalancing method. this Dataset is taken from Kaggle. 
 
