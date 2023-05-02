@@ -6,5 +6,5 @@
 
 ### Description: 
 
-Body performance is predicted using Classification analysis. Dataset is taken from Kaggle. 
+ Drug classification is predicted using Classification analysis. Dataset is taken from Kaggle. 
 
