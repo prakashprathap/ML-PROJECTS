@@ -1,10 +1,10 @@
 
-# Body performance  prediction
+# Watch price  prediction
 
-### Problem type : Classification
+### Problem type : Regression
 
 
 ### Description: 
 
-Body performance is predicted using Classification analysis. Dataset is taken from Kaggle. 
+Watch price  is predicted using Regression analysis. Dataset is taken from Kaggle. 
 
